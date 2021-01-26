@@ -1,9 +1,0 @@
-@prefix ns1: <http://xmlns.com/foaf/0.1/> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
-
-<http://example.com/person/herbert> ns1:givenName "Herbert"^^xsd:string .
-
-<http://example.com/person/jack> ns1:givenName "Jack"^^xsd:string .
-
-<http://example.com/person/nick> ns1:givenName "Nick"^^xsd:string .
-
