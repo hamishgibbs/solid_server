@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% block head %}
+    <link rel="stylesheet" href="{{ url_for('static', path='/styles.css') }}" />
+    <title>{% block title %}{% endblock %} Solid Server</title>
+    {% endblock %}
+</head>
+<body>
+    <div class="site_title">
+      <h1>Solid Server</h1>
+    </div>
+    <div id="content">{% block content %}{% endblock %}</div>
+</body>
+</html>

@@ -1,0 +1,20 @@
+.site_title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #06AB80;
+}
+
+.login_container {
+  text-align: center;
+  display: inline-block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.home_container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
