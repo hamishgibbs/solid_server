@@ -1,6 +1,8 @@
 # solid_server
 
 ![GitHub Actions (Tests)](https://github.com/hamishgibbs/solid_server/workflows/Tests/badge.svg)
+[![codecov](https://codecov.io/gh/hamishgibbs/solid_server/branch/master/graph/badge.svg)](https://codecov.io/gh/hamishgibbs/solid_server)
+
 
 An example [Solid](https://solidproject.org/) resource server implemented in Python.
 
